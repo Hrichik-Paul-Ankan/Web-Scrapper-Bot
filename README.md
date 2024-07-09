@@ -1,2 +1,2 @@
-# Web-Scrapper-Bot
-This project is made by raw coding python to scrap any information from a website just by giving the URL link to the bot.
+# Web_Scrapper_with_Python
+This project is made by raw coding python to scrap any website just by giving their url 
